@@ -19,7 +19,7 @@ Flutter kullanılarak hazırlanmış bu mobil uygulama arayüzü, WhatsApp'ın s
 ## 📸 Uygulama Ekran Görüntüsü
 
 <p align="center">
-  <img src="screenshots/Google_Pixel_2.png" width="300" alt="Uygulama ekran görüntüsü" />
+  <img src="screenshots/Google_Pixel.png" width="300" alt="Uygulama ekran görüntüsü" />
 </p>
 
 ---

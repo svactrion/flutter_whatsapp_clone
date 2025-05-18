@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
 class ChatItem extends StatelessWidget {
-  /// [avatarPathOrUrl] can be an asset path (e.g. 'assets/images/avatar.png')
-  /// or a network URL (e.g. 'https://example.com/avatar.jpg').
   final String avatarPathOrUrl;
   final String name;
   final String message;
@@ -18,7 +16,6 @@ class ChatItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Determine image provider based on prefix
     final ImageProvider avatarImage =
         avatarPathOrUrl.startsWith('http')
             ? NetworkImage(avatarPathOrUrl)

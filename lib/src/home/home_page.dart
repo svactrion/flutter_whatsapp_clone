@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/chat_item.dart'; // ChatItem artık model klasöründe
+import '../models/chat_item.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -22,8 +22,8 @@ class _HomePageState extends State<HomePage> {
     final List<Map<String, dynamic>> chats = [
       {
         'avatar': 'images/ege.png',
-        'name': 'Ege Universitesi 2025',
-        'message': 'Sınavlar açıklanmış.',
+        'name': 'Ege Üniversitesi 2025 Duyuru',
+        'message': 'Sınavlar açıklanmıştır.',
         'time': '09:45',
         'isFavorite': true,
         'isUnread': false,
@@ -40,8 +40,8 @@ class _HomePageState extends State<HomePage> {
       },
       {
         'avatar': 'images/burak.png',
-        'name': 'Burak',
-        'message': 'Akşam saat kaçta',
+        'name': 'Burak Şıralı',
+        'message': 'Akşam saat kaçta olacak ?',
         'time': 'Dün',
         'isFavorite': false,
         'isUnread': false,
@@ -50,16 +50,16 @@ class _HomePageState extends State<HomePage> {
       {
         'avatar': 'images/techca.png',
         'name': 'Flutter Bootcamp',
-        'message': 'Bootcampi başarıyla tammaladınız.Tebrikler',
+        'message': 'Bootcampi başarıyla tamamladınız.Tebrikler',
         'time': 'Dün',
         'isFavorite': false,
         'isUnread': false,
         'isGroup': true,
       },
       {
-        'avatar': 'images/haluk.png',
-        'name': 'Haluk Aktan',
-        'message': 'Naber?',
+        'avatar': 'images/kasim.png',
+        'name': 'Kasım Adalan Eğitmen',
+        'message': 'Son Dersimiz 10 dakikaya başlayacaktır.',
         'time': 'Dün',
         'isFavorite': false,
         'isUnread': false,

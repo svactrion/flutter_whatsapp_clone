@@ -1,8 +1,6 @@
 // lib/main.dart
 
 import 'package:flutter/material.dart';
-// HomePage’in olduğu dosyayı doğru path ile import et.
-// Eğer HomePage’i lib/src/home/home_page.dart içinde oluşturduysan:
 import 'src/home/home_page.dart';
 
 void main() {

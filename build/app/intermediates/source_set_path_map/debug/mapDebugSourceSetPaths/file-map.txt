@@ -18,10 +18,10 @@ com.example.whatsapp_clone.app-jetified-core-ktx-1.13.1-16 C:\Users\AET78\.gradl
 com.example.whatsapp_clone.app-jetified-savedstate-1.2.1-17 C:\Users\AET78\.gradle\caches\8.10.2\transforms\e74e2a95bf15f363512d249a41a4796c\transformed\jetified-savedstate-1.2.1\res
 com.example.whatsapp_clone.app-core-runtime-2.2.0-18 C:\Users\AET78\.gradle\caches\8.10.2\transforms\e818dbca825d51b428fd0b31ce39397d\transformed\core-runtime-2.2.0\res
 com.example.whatsapp_clone.app-jetified-annotation-experimental-1.4.0-19 C:\Users\AET78\.gradle\caches\8.10.2\transforms\fa709ea6d702d3fd264008b18afa8d35\transformed\jetified-annotation-experimental-1.4.0\res
-com.example.whatsapp_clone.app-debug-20 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\android\app\src\debug\res
-com.example.whatsapp_clone.app-main-21 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\android\app\src\main\res
-com.example.whatsapp_clone.app-pngs-22 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\build\app\generated\res\pngs\debug
-com.example.whatsapp_clone.app-resValues-23 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\build\app\generated\res\resValues\debug
-com.example.whatsapp_clone.app-packageDebugResources-24 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.whatsapp_clone.app-packageDebugResources-25 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.whatsapp_clone.app-debug-26 C:\Users\AET78\whatsapp_app_techcareer\whatsapp_clone\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.whatsapp_clone.app-debug-20 C:\Users\AET78\whatsapp_app_techcareer\android\app\src\debug\res
+com.example.whatsapp_clone.app-main-21 C:\Users\AET78\whatsapp_app_techcareer\android\app\src\main\res
+com.example.whatsapp_clone.app-pngs-22 C:\Users\AET78\whatsapp_app_techcareer\build\app\generated\res\pngs\debug
+com.example.whatsapp_clone.app-resValues-23 C:\Users\AET78\whatsapp_app_techcareer\build\app\generated\res\resValues\debug
+com.example.whatsapp_clone.app-packageDebugResources-24 C:\Users\AET78\whatsapp_app_techcareer\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.whatsapp_clone.app-packageDebugResources-25 C:\Users\AET78\whatsapp_app_techcareer\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.whatsapp_clone.app-debug-26 C:\Users\AET78\whatsapp_app_techcareer\build\app\intermediates\merged_res\debug\mergeDebugResources
