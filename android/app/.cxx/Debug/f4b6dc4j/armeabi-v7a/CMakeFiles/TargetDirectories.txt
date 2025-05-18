@@ -1,0 +1,2 @@
+C:/Users/AET78/whatsapp_app_techcareer/whatsapp_clone/android/app/.cxx/Debug/f4b6dc4j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/AET78/whatsapp_app_techcareer/whatsapp_clone/android/app/.cxx/Debug/f4b6dc4j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
