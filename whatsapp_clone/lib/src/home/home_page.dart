@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                       selected: isSelected,
-                      selectedColor: const Color(0xFFE0F7EC),
+                      selectedColor: const Color.fromARGB(255, 81, 206, 146),
                       backgroundColor: const Color(0xFFF0F0F0),
                       onSelected: (_) {
                         setState(() => _selectedFilter = i);
